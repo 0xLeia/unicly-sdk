@@ -1453,10 +1453,10 @@
     semver "^7.3.2"
     tsutils "^3.17.1"
 
-"@unicly/unicswap@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@unicly/unicswap/-/unicswap-1.0.1.tgz#04872c12ad01efebdc10d4a03bd9bb848cd3d669"
-  integrity sha512-btXyAt6YN3r9A9umv36boXi/NrUThRNgCozjIhcUHkL5Aoi4mKmd4h7aOsAoVTn+cdv5jP6NOrQybBvtfJ4myA==
+"@unicly/unicswap@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@unicly/unicswap/-/unicswap-1.0.2.tgz#b321bbabb28c194fbab2895e65ef6713c60e5755"
+  integrity sha512-t8l9Uv09uggjBpZADU2/jAhKVbp9JlnEG2BJE8qEjUsvt3HamXWfXopiWba2TIRibrjVJ0DqQ6iZzFz/K8zaQQ==
 
 abab@^2.0.0:
   version "2.0.3"
